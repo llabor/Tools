@@ -5,8 +5,8 @@
  * */
 
 /*
- * To run it through the command-line console:
- * C:\Users\Ezequiel\workspace\main-args-sample\bin> java ArgumentExample 8 9 1 (sample)
+ * To run it through the command-line console (example):
+ * C:\Users\Ezequiel\workspace\main-args-sample\bin> java ArgumentExample 8 9 1
  */
 
 public class ArgumentExample {
