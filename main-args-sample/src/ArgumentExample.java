@@ -5,7 +5,7 @@
  * */
 
 /*
- * To run it by using the command-line console:
+ * To run it through the command-line console:
  * C:\Users\Ezequiel\workspace\main-args-sample\bin> java ArgumentExample 8 9 1 (sample)
  */
 
